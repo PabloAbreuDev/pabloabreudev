@@ -12,7 +12,7 @@ Desenvolvedor Node.js apaixonado por transformar linhas de código em soluções
 
 🚀 Repositórios repletos de código limpo, documentado e soluções inteligentes. Estou sempre explorando novas ideias e experimentando com as últimas tendências tecnológicas.
 
-📚 Além disso, você pode encontrar artigos, tutoriais e compartilhamento de conhecimento em meu blog, onde compartilho insights e aprendizados do mundo do desenvolvimento.
+📚 Além disso, você pode encontrar artigos, tutoriais e compartilhamento de conhecimento em minhas redes sociais, onde compartilho insights e aprendizados do mundo do desenvolvimento.
 
 
 ## 🌐 Socials:
