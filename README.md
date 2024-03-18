@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 
 ## Olá, eu sou Pablo! 👋
 
@@ -15,7 +15,7 @@ Desenvolvedor Node.js apaixonado por transformar linhas de código em soluções
 📚 Além disso, você pode encontrar artigos, tutoriais e compartilhamento de conhecimento em minhas redes sociais, onde compartilho insights e aprendizados do mundo do desenvolvimento.
 
 
-## 🌐 Socials:
+## 🌐 Redes sociais:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablodev95) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pabloabreudev) 
 
